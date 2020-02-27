@@ -1,0 +1,96 @@
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\bin\Debug\OOP_13.exe.config
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\bin\Debug\OOP_13.exe
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\bin\Debug\OOP_13.pdb
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\bin\Debug\Microsoft.TeamFoundation.TestManagement.Client.dll
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\bin\Debug\Microsoft.TeamFoundation.TestManagement.Common.dll
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\bin\Debug\ru\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\obj\Debug\MainView.g.cs
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\obj\Debug\OOP_13_MarkupCompile.cache
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\obj\Debug\OOP_13_MarkupCompile.lref
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\obj\Debug\MainView.baml
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\obj\Debug\OOP_13.g.resources
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\obj\Debug\OOP_13.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\obj\Debug\OOP_13.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\obj\Debug\OOP_13.exe
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\obj\Debug\OOP_13.pdb
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.Composition.dll
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.Composition.xml
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\user\documents\visual studio 2017\Projects\OOP_13\OOP_13\obj\Debug\OOP_13.csprojResolveAssemblyReference.cache
+E:\учеба\4 семестр\ООП\OOP_13\OOP_13\bin\Debug\OOP_13.exe.config
+E:\учеба\4 семестр\ООП\OOP_13\OOP_13\obj\Debug\OOP_13.exe
+E:\учеба\4 семестр\ООП\OOP_13\OOP_13\obj\Debug\OOP_13.pdb
+D:\4 семестр\ООП\OOP_13\OOP_13\bin\Debug\OOP_13.exe.config
+D:\4 семестр\ООП\OOP_13\OOP_13\bin\Debug\OOP_13.exe
+D:\4 семестр\ООП\OOP_13\OOP_13\bin\Debug\OOP_13.pdb
+D:\4 семестр\ООП\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.Composition.dll
+D:\4 семестр\ООП\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+D:\4 семестр\ООП\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
+D:\4 семестр\ООП\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+D:\4 семестр\ООП\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+D:\4 семестр\ООП\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+D:\4 семестр\ООП\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\4 семестр\ООП\OOP_13\OOP_13\bin\Debug\Microsoft.TeamFoundation.TestManagement.Client.dll
+D:\4 семестр\ООП\OOP_13\OOP_13\bin\Debug\Microsoft.TeamFoundation.TestManagement.Common.dll
+D:\4 семестр\ООП\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.Composition.xml
+D:\4 семестр\ООП\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+D:\4 семестр\ООП\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+D:\4 семестр\ООП\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+D:\4 семестр\ООП\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\4 семестр\ООП\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\4 семестр\ООП\OOP_13\OOP_13\bin\Debug\ru\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+D:\4 семестр\ООП\OOP_13\OOP_13\obj\Debug\OOP_13.csprojResolveAssemblyReference.cache
+D:\4 семестр\ООП\OOP_13\OOP_13\obj\Debug\MainView.g.cs
+D:\4 семестр\ООП\OOP_13\OOP_13\obj\Debug\App.g.cs
+D:\4 семестр\ООП\OOP_13\OOP_13\obj\Debug\OOP_13_MarkupCompile.cache
+D:\4 семестр\ООП\OOP_13\OOP_13\obj\Debug\OOP_13_MarkupCompile.lref
+D:\4 семестр\ООП\OOP_13\OOP_13\obj\Debug\MainView.baml
+D:\4 семестр\ООП\OOP_13\OOP_13\obj\Debug\OOP_13.g.resources
+D:\4 семестр\ООП\OOP_13\OOP_13\obj\Debug\OOP_13.Properties.Resources.resources
+D:\4 семестр\ООП\OOP_13\OOP_13\obj\Debug\OOP_13.csproj.GenerateResource.Cache
+D:\4 семестр\ООП\OOP_13\OOP_13\obj\Debug\OOP_13.csproj.CoreCompileInputs.cache
+D:\4 семестр\ООП\OOP_13\OOP_13\obj\Debug\OOP_13.exe
+D:\4 семестр\ООП\OOP_13\OOP_13\obj\Debug\OOP_13.pdb
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\bin\Debug\OOP_13.exe.config
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\bin\Debug\OOP_13.exe
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\bin\Debug\OOP_13.pdb
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.Composition.dll
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\bin\Debug\Microsoft.TeamFoundation.TestManagement.Client.dll
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\bin\Debug\Microsoft.TeamFoundation.TestManagement.Common.dll
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.Composition.xml
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\bin\Debug\ru\Microsoft.TeamFoundation.TestManagement.Client.resources.dll
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\obj\Debug\OOP_13.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\obj\Debug\MainView.g.cs
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\obj\Debug\App.g.cs
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\obj\Debug\OOP_13_MarkupCompile.cache
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\obj\Debug\OOP_13_MarkupCompile.lref
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\obj\Debug\MainView.baml
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\obj\Debug\OOP_13.g.resources
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\obj\Debug\OOP_13.Properties.Resources.resources
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\obj\Debug\OOP_13.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\obj\Debug\OOP_13.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\obj\Debug\OOP_13.csproj.CopyComplete
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\obj\Debug\OOP_13.exe
+C:\Users\HP\Documents\Лекции и Практикумы\лр10\OOP_13\OOP_13\obj\Debug\OOP_13.pdb

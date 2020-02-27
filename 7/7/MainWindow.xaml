@@ -1,0 +1,59 @@
+﻿<Window x:Class="_7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_7"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <!--объект Phone с установкой его свойств Price и Name-->
+        <local:Phone Price="600" Title="iPhone 6S" x:Key="iPhone6s"/>
+        <Style TargetType="Ellipse">
+            <Setter Property="Fill" Value="red"/>
+            <Setter Property="Width" Value="30"/>
+            <Setter Property="Height" Value="30"/>
+        </Style>
+    </Window.Resources>
+    
+    <Grid x:Name="grid1" DataContext="{StaticResource iPhone6s}">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="Модель" />
+            <TextBlock Text="{Binding Title}" />
+        </StackPanel>
+        <StackPanel Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="Цена" />
+            <TextBox Text="{Binding Price, Mode=TwoWay}" />
+        </StackPanel>
+        <Button Content="Check your price" Grid.Row="2" Grid.Column="0" Click="Click_to_Check"/>
+        <TextBlock x:Name="bubbling_events_text" Grid.Column="2"/>
+        <StackPanel Grid.Column="1" Grid.Row="0" VerticalAlignment="Center" MouseDown="bubbling_events" >
+            <Button Width="80" Height="50" MouseDown="bubbling_events" Margin="10">
+                <Ellipse  MouseDown="bubbling_events"/>
+            </Button>
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="1" VerticalAlignment="Center" PreviewMouseDown="tunneling_events" >
+            <Button Width="80" Height="50" PreviewMouseDown="tunneling_events" Margin="10" Click="Button_Click">
+                <Ellipse  PreviewMouseDown="tunneling_events"/>
+            </Button>
+        </StackPanel>
+        <TextBlock x:Name="tunneling_events_text" Grid.Column="2" Grid.Row="1"/>
+        <StackPanel Grid.Column="1" Grid.Row="2" RadioButton.Checked="Attached_events" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <RadioButton GroupName="menu" Content="1"/>
+            <RadioButton GroupName="menu" Content="2"/>
+            <RadioButton GroupName="menu" Content="3"/>
+            <RadioButton GroupName="menu" Content="4"/>
+        </StackPanel>
+        <TextBlock x:Name="Attached_events_text" Grid.Column="2" Grid.Row="2"/>
+    </Grid>
+</Window>

@@ -1,0 +1,10 @@
+C:\Users\Roman\Desktop\4 семестр\ООП\Lab2(2 semestr)\Lab2(2 semestr)\bin\Debug\Lab2(2 semestr).exe.config
+C:\Users\Roman\Desktop\4 семестр\ООП\Lab2(2 semestr)\Lab2(2 semestr)\bin\Debug\Lab2(2 semestr).exe
+C:\Users\Roman\Desktop\4 семестр\ООП\Lab2(2 semestr)\Lab2(2 semestr)\bin\Debug\Lab2(2 semestr).pdb
+C:\Users\Roman\Desktop\4 семестр\ООП\Lab2(2 semestr)\Lab2(2 semestr)\obj\Debug\Lab2_2_semestr_.Form1.resources
+C:\Users\Roman\Desktop\4 семестр\ООП\Lab2(2 semestr)\Lab2(2 semestr)\obj\Debug\Lab2_2_semestr_.Properties.Resources.resources
+C:\Users\Roman\Desktop\4 семестр\ООП\Lab2(2 semestr)\Lab2(2 semestr)\obj\Debug\Lab2(2 semestr).csproj.GenerateResource.cache
+C:\Users\Roman\Desktop\4 семестр\ООП\Lab2(2 semestr)\Lab2(2 semestr)\obj\Debug\Lab2(2 semestr).csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\4 семестр\ООП\Lab2(2 semestr)\Lab2(2 semestr)\obj\Debug\Lab2(2 semestr).exe
+C:\Users\Roman\Desktop\4 семестр\ООП\Lab2(2 semestr)\Lab2(2 semestr)\obj\Debug\Lab2(2 semestr).pdb
+C:\Users\Roman\Desktop\4 семестр\ООП\Lab2(2 semestr)\Lab2(2 semestr)\obj\Debug\Lab2(2 semestr).csprojAssemblyReference.cache

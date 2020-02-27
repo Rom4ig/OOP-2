@@ -1,0 +1,39 @@
+D:\учёба\2 курс\2 семестр\C#\Лаба1\Lab1_Collection\bin\Debug\Lab1_Collection.exe.config
+D:\учёба\2 курс\2 семестр\C#\Лаба1\Lab1_Collection\bin\Debug\Lab1_Collection.exe
+D:\учёба\2 курс\2 семестр\C#\Лаба1\Lab1_Collection\bin\Debug\Lab1_Collection.pdb
+D:\учёба\2 курс\2 семестр\C#\Лаба1\Lab1_Collection\obj\Debug\Lab1_Collection.csprojResolveAssemblyReference.cache
+D:\учёба\2 курс\2 семестр\C#\Лаба1\Lab1_Collection\obj\Debug\Lab1_Collection.Form1.resources
+D:\учёба\2 курс\2 семестр\C#\Лаба1\Lab1_Collection\obj\Debug\Lab1_Collection.Properties.Resources.resources
+D:\учёба\2 курс\2 семестр\C#\Лаба1\Lab1_Collection\obj\Debug\Lab1_Collection.csproj.GenerateResource.Cache
+D:\учёба\2 курс\2 семестр\C#\Лаба1\Lab1_Collection\obj\Debug\Lab1_Collection.csproj.CoreCompileInputs.cache
+D:\учёба\2 курс\2 семестр\C#\Лаба1\Lab1_Collection\obj\Debug\Lab1_Collection.exe
+D:\учёба\2 курс\2 семестр\C#\Лаба1\Lab1_Collection\obj\Debug\Lab1_Collection.pdb
+D:\BSTU\2 курс\4 Семестр\4-ООП\#Лабораторные работы\Lab1_Collection\bin\Debug\Lab1_Collection.exe.config
+D:\BSTU\2 курс\4 Семестр\4-ООП\#Лабораторные работы\Lab1_Collection\bin\Debug\Lab1_Collection.exe
+D:\BSTU\2 курс\4 Семестр\4-ООП\#Лабораторные работы\Lab1_Collection\bin\Debug\Lab1_Collection.pdb
+D:\BSTU\2 курс\4 Семестр\4-ООП\#Лабораторные работы\Lab1_Collection\obj\Debug\Lab1_Collection.csprojResolveAssemblyReference.cache
+D:\BSTU\2 курс\4 Семестр\4-ООП\#Лабораторные работы\Lab1_Collection\obj\Debug\Lab1_Collection.Form1.resources
+D:\BSTU\2 курс\4 Семестр\4-ООП\#Лабораторные работы\Lab1_Collection\obj\Debug\Lab1_Collection.Properties.Resources.resources
+D:\BSTU\2 курс\4 Семестр\4-ООП\#Лабораторные работы\Lab1_Collection\obj\Debug\Lab1_Collection.csproj.GenerateResource.Cache
+D:\BSTU\2 курс\4 Семестр\4-ООП\#Лабораторные работы\Lab1_Collection\obj\Debug\Lab1_Collection.exe
+D:\BSTU\2 курс\4 Семестр\4-ООП\#Лабораторные работы\Lab1_Collection\obj\Debug\Lab1_Collection.pdb
+C:\Users\Roman\Desktop\2 курс\4 Семестр\4-ООП\#Лабораторные работы\Lab1_Collection\bin\Debug\Lab1_Collection.exe.config
+C:\Users\Roman\Desktop\2 курс\4 Семестр\4-ООП\#Лабораторные работы\Lab1_Collection\bin\Debug\Lab1_Collection.exe
+C:\Users\Roman\Desktop\2 курс\4 Семестр\4-ООП\#Лабораторные работы\Lab1_Collection\bin\Debug\Lab1_Collection.pdb
+C:\Users\Roman\Desktop\2 курс\4 Семестр\4-ООП\#Лабораторные работы\Lab1_Collection\obj\Debug\Lab1_Collection.csprojAssemblyReference.cache
+C:\Users\Roman\Desktop\2 курс\4 Семестр\4-ООП\#Лабораторные работы\Lab1_Collection\obj\Debug\Lab1_Collection.Form1.resources
+C:\Users\Roman\Desktop\2 курс\4 Семестр\4-ООП\#Лабораторные работы\Lab1_Collection\obj\Debug\Lab1_Collection.Properties.Resources.resources
+C:\Users\Roman\Desktop\2 курс\4 Семестр\4-ООП\#Лабораторные работы\Lab1_Collection\obj\Debug\Lab1_Collection.csproj.GenerateResource.cache
+C:\Users\Roman\Desktop\2 курс\4 Семестр\4-ООП\#Лабораторные работы\Lab1_Collection\obj\Debug\Lab1_Collection.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\2 курс\4 Семестр\4-ООП\#Лабораторные работы\Lab1_Collection\obj\Debug\Lab1_Collection.exe
+C:\Users\Roman\Desktop\2 курс\4 Семестр\4-ООП\#Лабораторные работы\Lab1_Collection\obj\Debug\Lab1_Collection.pdb
+C:\Users\Roman\Desktop\4 семестр\ООП\Lab1_Collection\bin\Debug\Lab1_Collection.exe.config
+C:\Users\Roman\Desktop\4 семестр\ООП\Lab1_Collection\bin\Debug\Lab1_Collection.exe
+C:\Users\Roman\Desktop\4 семестр\ООП\Lab1_Collection\bin\Debug\Lab1_Collection.pdb
+C:\Users\Roman\Desktop\4 семестр\ООП\Lab1_Collection\obj\Debug\Lab1_Collection.csprojAssemblyReference.cache
+C:\Users\Roman\Desktop\4 семестр\ООП\Lab1_Collection\obj\Debug\Lab1_Collection.Form1.resources
+C:\Users\Roman\Desktop\4 семестр\ООП\Lab1_Collection\obj\Debug\Lab1_Collection.Properties.Resources.resources
+C:\Users\Roman\Desktop\4 семестр\ООП\Lab1_Collection\obj\Debug\Lab1_Collection.csproj.GenerateResource.cache
+C:\Users\Roman\Desktop\4 семестр\ООП\Lab1_Collection\obj\Debug\Lab1_Collection.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\4 семестр\ООП\Lab1_Collection\obj\Debug\Lab1_Collection.exe
+C:\Users\Roman\Desktop\4 семестр\ООП\Lab1_Collection\obj\Debug\Lab1_Collection.pdb

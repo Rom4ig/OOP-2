@@ -1,0 +1,10 @@
+C:\Users\Roman\Desktop\4 семестр\ООП\WinForms\WinForms\bin\Debug\WinForms.exe.config
+C:\Users\Roman\Desktop\4 семестр\ООП\WinForms\WinForms\bin\Debug\WinForms.exe
+C:\Users\Roman\Desktop\4 семестр\ООП\WinForms\WinForms\bin\Debug\WinForms.pdb
+C:\Users\Roman\Desktop\4 семестр\ООП\WinForms\WinForms\obj\Debug\WinForms.csprojAssemblyReference.cache
+C:\Users\Roman\Desktop\4 семестр\ООП\WinForms\WinForms\obj\Debug\WinForms.Form1.resources
+C:\Users\Roman\Desktop\4 семестр\ООП\WinForms\WinForms\obj\Debug\WinForms.Properties.Resources.resources
+C:\Users\Roman\Desktop\4 семестр\ООП\WinForms\WinForms\obj\Debug\WinForms.csproj.GenerateResource.cache
+C:\Users\Roman\Desktop\4 семестр\ООП\WinForms\WinForms\obj\Debug\WinForms.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\4 семестр\ООП\WinForms\WinForms\obj\Debug\WinForms.exe
+C:\Users\Roman\Desktop\4 семестр\ООП\WinForms\WinForms\obj\Debug\WinForms.pdb
